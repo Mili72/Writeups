@@ -1,6 +1,5 @@
 -------------
-- Tags: #linux #htb #facil 
-
+PERMX
 -----------------
 1. Confirmamos tener conexión y comprobamos a que máquina nos estamos enfrentando:
 
