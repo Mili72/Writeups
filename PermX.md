@@ -1,5 +1,5 @@
 -------------
-PERMX
+PermX
 -----------------
 1. Confirmamos tener conexión y comprobamos a que máquina nos estamos enfrentando:
 
