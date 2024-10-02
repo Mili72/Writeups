@@ -300,7 +300,7 @@ mtz@permx:~$ sudo /opt/acl.sh mtz rw /home/mtz/helpfile
 mtz@permx:~$ vim /etc/sudoers
 ```
 
-![[(https://github.com/Mili72/Capturas/blob/main/Pasted%20image%2020241002005833.png)]]
+![[https://github.com/Mili72/Capturas/blob/main/Pasted%20image%2020241002005833.png]]
 
 ```bash
 mtz@permx:/$ sudo su
