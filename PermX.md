@@ -104,12 +104,14 @@ www                     [Status: 200, Size: 36182, Words: 12829, Lines: 587, Dur
 
 Y encontramos lms y www, habrá que añadirlo a /etc/hosts.
 
-![[Pasted image 20241002001709.png]]
+![image](https://github.com/user-attachments/assets/cc1a6b8f-8015-4285-aa83-163978e60a1c)
+
 Nos aparece la siguiente página con un panel de login.
 
 Investigando un poco, podemos encontrar una vulnerabilidad de chamilo:
 
-![[Pasted image 20241002002310.png]]
+![image](https://github.com/user-attachments/assets/8e570b1f-2f0e-47ce-a5bb-046118f5ae13)
+
 
 Podemos descargar el exploit que es muy sencillo de utilizar y vemos que el resultado es instantáneo:
 
