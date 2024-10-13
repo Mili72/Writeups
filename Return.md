@@ -123,7 +123,8 @@ Como no permite NULL o sesiones de invitado pasamos la página web.
 
 3. IIS
 
-![image](Pasted image 20240921153047.png) ![[Pasted image 20240921153104.png]]
+![image](https://github.com/user-attachments/assets/07eebb5b-5911-47c9-b8b0-f4e673143320)
+![image](https://github.com/user-attachments/assets/6e5eb4a8-3048-43db-bbe5-78aa83719af8)
 
 4. Foothold
 
@@ -244,16 +245,17 @@ Final size of exe file: 73802 bytes
 Y la subimos igual que antes con upload.
 Y nos vamos a meterpreter con msfconsole.
 
-![[Pasted image 20240921160131.png]]
-![[Pasted image 20240921160321.png]]
+![image](https://github.com/user-attachments/assets/c2469f7c-79a9-4f12-bb3e-215ba9e6bcc9)
+![image](https://github.com/user-attachments/assets/faa9a9b1-0f0d-45ac-9323-75dee1da4a70)
 
 Y ahora modificamos el servicio binario para obtener nuestra shell con la que hemos subido:
-![[Pasted image 20240921160552.png]]
+![image](https://github.com/user-attachments/assets/9a394d43-c88b-4fb7-aa44-59b9f5594bda)
 
-![[Pasted image 20240921160850.png]]
+![image](https://github.com/user-attachments/assets/c3bca298-8938-4418-a7e9-2a94365cd920)
 
-![[Pasted image 20240921161100.png]]
+![image](https://github.com/user-attachments/assets/3b1762ee-0360-400f-998b-a5c2a3d581c7)
 
-![[Pasted image 20240921161117.png]]
+![image](https://github.com/user-attachments/assets/b31a61dc-7834-4c32-a194-f7d88eb0d6cc)
+
 
 
