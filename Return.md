@@ -123,7 +123,7 @@ Como no permite NULL o sesiones de invitado pasamos la página web.
 
 3. IIS
 
-![[Pasted image 20240921153047.png]]![[Pasted image 20240921153104.png]]
+![image](Pasted image 20240921153047.png) ![[Pasted image 20240921153104.png]]
 
 4. Foothold
 
