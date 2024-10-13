@@ -1,7 +1,6 @@
------------
-Tags: #windows #facil #htb #terminada
-
+**Return**
 -------------------------
+
 1. Escaneo de puertos
 
 ```bash
