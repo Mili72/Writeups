@@ -20,14 +20,17 @@ Nmap done: 1 IP address (1 host up) scanned in 0.40 seconds
 ```
 
 Podemos comprobar que el puerto 5000 está abierto, asi que vamos a comprobar desde nuestro navegador:
-https://github.com/Mili72/Capturas/blob/main/Escape/Web1.png
+![image](https://github.com/user-attachments/assets/02ed6535-8103-4e5d-a496-e97bb202576b)
+
 
 Nos aparece un apartado para ingresar nuestro XSS Reflejado, el cuál nos especifica que para poder explotarlo 
 tendremos que escapar el script del atributo HTML. Este atributo podría impedir la ejecución de nuestro script. 
 Por lo tanto yo voy a probar lo siguiente:
-https://github.com/Mili72/Capturas/blob/main/Escape/Script.png
+![image](https://github.com/user-attachments/assets/85e97efe-df1b-4f89-a745-4cd3be85bc2f)
 
-https://github.com/Mili72/Capturas/blob/main/Escape/Resultado.png
+
+![image](https://github.com/user-attachments/assets/bffac488-77d4-4127-9085-929079b6f760)
+
 
 Y ya lo tendríamos. Agradecer a todos los que contribuyen y a los creadores de la plataforma por permitir que mucha 
 gente podamos practicar de una forma tan sencilla y con pocos requisitos. Nos vemos en el siguiente :D!
