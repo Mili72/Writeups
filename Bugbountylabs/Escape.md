@@ -26,6 +26,7 @@ Podemos comprobar que el puerto 5000 está abierto, asi que vamos a comprobar de
 Nos aparece un apartado para ingresar nuestro XSS Reflejado, el cuál nos especifica que para poder explotarlo 
 tendremos que escapar el script del atributo HTML. Este atributo podría impedir la ejecución de nuestro script. 
 Por lo tanto yo voy a probar lo siguiente:
+
 ![image](https://github.com/user-attachments/assets/85e97efe-df1b-4f89-a745-4cd3be85bc2f)
 
 
